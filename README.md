@@ -164,6 +164,6 @@ joblib.dump(model, "best_youtube_revenue_model.pkl")
 
 <div align="center">
 
-Made with 💻 + 📊 + ☕ by **Srijan**  
+
 
 </div>
